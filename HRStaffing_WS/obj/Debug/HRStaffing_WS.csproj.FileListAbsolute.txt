@@ -1,0 +1,17 @@
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe.config
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.pdb
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRS.WindowsService.Bussiness.dll
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRS.WebAPI.Bussiness.dll
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRS.WebAPI.Entities.dll
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRS.WindowsService.Bussiness.pdb
+D:\Sites\HRStaffing_WS\HRStaffing_WS\obj\Debug\HRStaffing_WS.csprojResolveAssemblyReference.cache
+D:\Sites\HRStaffing_WS\HRStaffing_WS\obj\Debug\HRStaffing_WS.exe
+D:\Sites\HRStaffing_WS\HRStaffing_WS\obj\Debug\HRStaffing_WS.pdb
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRS.WebAPI.DataAccess.dll
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\EntityFramework.dll
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\EntityFramework.xml
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRS.WindowsService.Entities.dll
+D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRS.WindowsService.Entities.pdb

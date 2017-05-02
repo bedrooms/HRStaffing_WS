@@ -1,0 +1,4 @@
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Entities\bin\Debug\HRS.WindowsService.Entities.dll
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Entities\bin\Debug\HRS.WindowsService.Entities.pdb
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Entities\obj\Debug\HRS.WindowsService.Entities.dll
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Entities\obj\Debug\HRS.WindowsService.Entities.pdb

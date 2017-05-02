@@ -1,0 +1,10 @@
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\bin\Debug\HRS.WindowsService.Bussiness.dll
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\bin\Debug\HRS.WindowsService.Bussiness.pdb
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\bin\Debug\HRS.WebAPI.Bussiness.dll
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\bin\Debug\HRS.WebAPI.Entities.dll
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\obj\Debug\HRS.WindowsService.Bussiness.dll
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\obj\Debug\HRS.WindowsService.Bussiness.pdb
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\bin\Debug\HRS.WebAPI.DataAccess.dll
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\bin\Debug\HRS.WindowsService.Entities.dll
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\bin\Debug\HRS.WindowsService.Entities.pdb
+D:\Sites\HRStaffing_WS\HRS.WindowsService.Bussiness\obj\Debug\HRS.WindowsService.Bussiness.csprojResolveAssemblyReference.cache

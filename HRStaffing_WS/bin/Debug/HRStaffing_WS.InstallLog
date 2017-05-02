@@ -1,0 +1,45 @@
+﻿Installing assembly 'D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.InstallLog
+   assemblypath = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe assembly.
+Committing assembly 'D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.InstallLog
+   assemblypath = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.InstallLog
+   assemblypath = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe assembly.
+Installing assembly 'D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.InstallLog
+   assemblypath = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe assembly.
+Committing assembly 'D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.InstallLog
+   assemblypath = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe
+   logfile = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe assembly.
+Committing assembly 'D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe
+   logfile = D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sites\HRStaffing_WS\HRStaffing_WS\bin\Debug\HRStaffing_WS.exe assembly.
+Remove InstallState file because there are no installers.
